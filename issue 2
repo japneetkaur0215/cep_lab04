@@ -1,0 +1,15 @@
+## Bug Description
+The study schedule table in study-resources.md could be more detailed and easier to read.
+
+## Current Behavior
+Basic table with minimal study information.
+
+## Expected Behavior
+Improved table including:
+- Study duration
+- Location
+- Progress tracking
+- More detailed topics
+
+## Suggested Solution
+Expand the table columns and improve formatting.
